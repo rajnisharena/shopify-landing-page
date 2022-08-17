@@ -19,6 +19,6 @@
 #### 24 hours
 
 ### Porject link
-[vercel link ](https://paytm-clone-seven.vercel.app/ )
+[vercel link ](https://shopify-landing-page-chi.vercel.app/ )
 
-![badge](https://img.shields.io/badge/HTML-CSS-blue)
+![badge](https://github.com/rajnisharena/shopify-landing-page.git)

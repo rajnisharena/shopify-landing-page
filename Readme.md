@@ -21,4 +21,4 @@
 ### Porject link
 [vercel link ](https://shopify-landing-page-chi.vercel.app/ )
 
-![badge](https://github.com/rajnisharena/shopify-landing-page.git)
+![badge](https://img.shields.io/badge/HTML-CSS-blue)

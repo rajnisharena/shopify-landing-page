@@ -22,3 +22,5 @@
 [vercel link ](https://shopify-landing-page-chi.vercel.app/ )
 
 ![badge](https://img.shields.io/badge/HTML-CSS-blue)
+
+<img src="https://i2.paste.pics/29d79826abbd6c7837cc981c1af1bf74.png" width="1000" height="1052" alt="Screenshot">
